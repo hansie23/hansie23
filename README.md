@@ -24,4 +24,4 @@ I specialize in **Technical Product Management** for data-intensive products. My
 ---
 
 ### 📫 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio Website](YOUR_PORTFOLIO_URL) | iamhansie@gmail.com
+[LinkedIn](www.linkedin.com/in/hansiekristi) | [Portfolio Website](https://hansiekristi.netlify.app/) | iamhansie@gmail.com
